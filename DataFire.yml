@@ -2,3 +2,6 @@ options:
   cors: true
 actions:
   hacker_news: ./hacker_news.js
+tests:
+  test:
+    action: hacker_news
