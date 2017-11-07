@@ -1,0 +1,4 @@
+options:
+  cors: true
+actions:
+  hacker_news: ./hacker_news.js
