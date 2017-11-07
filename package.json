@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@datafire/google_sheets": "2.0.3",
+    "@datafire/hacker_news": "2.0.2"
+  }
+}
